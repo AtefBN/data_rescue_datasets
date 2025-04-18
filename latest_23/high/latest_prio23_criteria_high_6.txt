@@ -1,0 +1,8 @@
+project.activity_id.institution_id.source_id.experiment_id.variant_label.table_id.variable_id.grid_label.version
+CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.amip.r1i1p1f1.AERhr.ps.gr1.v20180701
+CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.amip.r1i1p1f1.AERhr.sfno2.gr1.v20180701
+CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.amip.r1i1p1f1.AERhr.sfo3.gr1.v20180701
+CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.amip.r1i1p1f1.AERhr.sfpm25.gr1.v20180701
+CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.AERhr.sfno2.gr1.v20190726
+CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.AERhr.sfo3.gr1.v20190726
+CMIP6.CMIP.NOAA-GFDL.GFDL-ESM4.historical.r1i1p1f1.AERhr.sfpm25.gr1.v20190726
