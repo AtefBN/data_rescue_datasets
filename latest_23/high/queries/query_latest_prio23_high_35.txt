@@ -1,0 +1,9 @@
+project=CMIP6
+activity_id=CMIP
+institution_id=NASA-GISS
+source_id=GISS-E2-1-G
+experiment_id=historical
+variant_label=r1i1p1f1 r5i1p1f2
+table_id=6hrPlev
+variable_id=sfcWind
+grid_label=gn

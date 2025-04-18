@@ -1,0 +1,9 @@
+project=CMIP6
+activity_id=CMIP
+institution_id=NOAA-GFDL
+source_id=GFDL-CM4
+experiment_id=amip
+variant_label=r1i1p1f1
+table_id=E1hrClimMon
+variable_id=rlut rlutcs rsdt rsut rsutcs
+grid_label=gr1
