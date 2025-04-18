@@ -1,0 +1,9 @@
+project=CMIP6
+activity_id=CMIP
+institution_id=NASA-GISS NCAR
+source_id=CESM2 GISS-E3-G
+experiment_id=amip historical
+variant_label=r10i1p1f1 r11i1p1f1 r1i1p101f1
+table_id=E1hr
+variable_id=pr
+grid_label=gn gr

@@ -1,0 +1,9 @@
+project=CMIP6
+activity_id=CMIP DAMIP
+institution_id=NASA-GISS
+source_id=GISS-E2-1-G
+experiment_id=amip hist-GHG hist-aer historical
+variant_label=r1i1p1f2 r1i1p3f1 r5i1p1f2 r6i1p1f2 r6i1p3f1
+table_id=6hrPlev
+variable_id=hurs
+grid_label=gn

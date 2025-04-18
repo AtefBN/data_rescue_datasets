@@ -1,0 +1,9 @@
+project=CMIP6
+activity_id=AerChemMIP C4MIP CFMIP CMIP DAMIP LS3MIP LUMIP RFMIP
+institution_id=CMCC CSIRO E3SM-Project NASA-GISS NCAR NOAA-GFDL RUBISCO UCSB
+source_id=ACCESS-ESM1-5 CESM2 CESM2-FV2 CESM2-WACCM CESM2-WACCM-FV2 CMCC-CM2-SR5 E3SM-1-0 E3SM-1-1 E3SM-2-0 E3SM-2-1 GFDL-CM4 GFDL-ESM4 GISS-E3-G
+experiment_id=1pctCO2 1pctCO2-rad abrupt-2xCO2 abrupt-4xCO2 amip hist-GHG hist-aer hist-nat hist-piAer historical land-hist piClim-aer piClim-anthro piClim-control piClim-histaer piClim-histall piControl
+variant_label=r10i1p1f1 r10i2p2f1 r11i1p1f1 r11i2p2f1 r12i1p1f1 r12i2p2f1 r13i1p1f1 r13i2p2f1 r14i1p1f1 r14i2p2f1 r15i1p1f1 r15i2p2f1 r16i1p1f1 r16i2p2f1 r17i1p1f1 r17i2p2f1 r18i1p1f1 r18i2p2f1 r19i1p1f1 r19i2p2f1 r1i1p101f1 r1i1p102f1 r1i1p103f1 r1i1p11f1 r1i1p1f1 r1i2p1f1 r1i2p2f1 r20i1p1f1 r20i2p2f1 r21i1p1f1 r2i1p1f1 r2i2p2f1 r3i1p1f1 r3i1p2f1 r3i2p2f1 r4i1p1f1 r5i1p1f1 r5i2p2f1 r6i2p2f1 r7i1p1f1 r7i2p2f1 r8i2p2f1 r9i2p2f1
+table_id=fx
+variable_id=areacella mrsofc orog sftgif sftlf
+grid_label=gn gr gr1 gr2
