@@ -1,0 +1,9 @@
+project=CMIP6
+activity_id=CMIP
+institution_id=NOAA-GFDL
+source_id=GFDL-ESM4
+experiment_id=amip historical
+variant_label=r1i1p1f1
+table_id=AERhr
+variable_id=ps sfno2 sfo3 sfpm25
+grid_label=gr1
