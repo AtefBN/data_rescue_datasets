@@ -1,0 +1,4 @@
+project.activity_id.institution_id.source_id.experiment_id.variant_label.table_id.variable_id.grid_label.version
+CMIP6.CMIP.NCAR.CESM2.amip.r10i1p1f1.E1hr.pr.gn.v20200226
+CMIP6.CMIP.NCAR.CESM2.historical.r11i1p1f1.E1hr.pr.gn.v20190514
+CMIP6.CMIP.NASA-GISS.GISS-E3-G.historical.r1i1p101f1.E1hr.pr.gr.v20230320

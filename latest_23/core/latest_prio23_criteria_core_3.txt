@@ -1,0 +1,6 @@
+project.activity_id.institution_id.source_id.experiment_id.variant_label.table_id.variable_id.grid_label.version
+CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-GHG.r1i1p3f1.6hrPlev.hurs.gn.v20230802
+CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r6i1p1f2.6hrPlev.hurs.gn.v20230910
+CMIP6.DAMIP.NASA-GISS.GISS-E2-1-G.hist-aer.r6i1p3f1.6hrPlev.hurs.gn.v20230915
+CMIP6.CMIP.NASA-GISS.GISS-E2-1-G.amip.r1i1p1f2.6hrPlev.hurs.gn.v20230505
+CMIP6.CMIP.NASA-GISS.GISS-E2-1-G.historical.r5i1p1f2.6hrPlev.hurs.gn.v20250305

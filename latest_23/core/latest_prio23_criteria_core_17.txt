@@ -1,0 +1,12 @@
+project.activity_id.institution_id.source_id.experiment_id.variant_label.table_id.variable_id.grid_label.version
+CMIP6.DAMIP.NOAA-GFDL.GFDL-CM4.hist-nat.r2i1p1f1.SIday.siconc.gr2.v20180701
+CMIP6.DAMIP.NOAA-GFDL.GFDL-CM4.hist-nat.r3i1p1f1.SIday.siconc.gr2.v20180701
+CMIP6.CFMIP.NCAR.CESM2.abrupt-2xCO2.r1i1p1f1.SIday.siconc.gn.v20200408
+CMIP6.CMIP.CMCC.CMCC-CM2-SR5.historical.r3i1p2f1.SIday.siconc.gn.v20211108
+CMIP6.CMIP.NCAR.CESM2-FV2.1pctCO2.r1i2p2f1.SIday.siconc.gn.v20220915
+CMIP6.CMIP.NCAR.CESM2-FV2.historical.r2i1p1f1.SIday.siconc.gn.v20200226
+CMIP6.CMIP.NCAR.CESM2-FV2.historical.r3i1p1f1.SIday.siconc.gn.v20200226
+CMIP6.CMIP.NCAR.CESM2-WACCM-FV2.historical.r2i1p1f1.SIday.siconc.gn.v20200226
+CMIP6.CMIP.NCAR.CESM2-WACCM-FV2.historical.r3i1p1f1.SIday.siconc.gn.v20200226
+CMIP6.CMIP.NCAR.CESM2.esm-piControl.r1i1p1f1.SIday.siconc.gn.v20190723
+CMIP6.CMIP.NCAR.CESM2.historical.r11i1p1f1.SIday.siconc.gn.v20190514

@@ -1,0 +1,4 @@
+project.activity_id.institution_id.source_id.experiment_id.variant_label.table_id.variable_id.grid_label.version
+CMIP6.CMIP.NCAR.CESM2.historical.r11i1p1f1.Efx.slthick.gn.v20190514
+CMIP6.CMIP.CMCC.CMCC-CM2-SR5.historical.r3i1p2f1.Efx.slthick.gn.v20211108
+CMIP6.CMIP.NCAR.CESM2-FV2.historical.r1i2p2f1.Efx.slthick.gn.v20220915
