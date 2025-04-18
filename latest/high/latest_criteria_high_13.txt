@@ -1,0 +1,9 @@
+project.activity_id.institution_id.source_id.experiment_id.variant_label.table_id.variable_id.grid_label.version
+CMIP6.CMIP.IPSL.IPSL-CM6A-MR1.amip.r10i1p1f1.E1hr.psl.gr.v20230220
+CMIP6.CMIP.IPSL.IPSL-CM6A-MR1.amip.r1i1p1f1.E1hr.psl.gr.v20230220
+CMIP6.CMIP.IPSL.IPSL-CM6A-MR1.amip.r2i1p1f1.E1hr.psl.gr.v20230220
+CMIP6.CMIP.IPSL.IPSL-CM6A-MR1.amip.r3i1p1f1.E1hr.psl.gr.v20231228
+CMIP6.CMIP.IPSL.IPSL-CM6A-MR1.amip.r4i1p1f1.E1hr.psl.gr.v20230220
+CMIP6.CMIP.IPSL.IPSL-CM6A-MR1.amip.r5i1p1f1.E1hr.psl.gr.v20230220
+CMIP6.CMIP.IPSL.IPSL-CM6A-MR1.amip.r6i1p1f1.E1hr.psl.gr.v20231228
+CMIP6.CMIP.IPSL.IPSL-CM6A-MR1.amip.r9i1p1f1.E1hr.psl.gr.v20230220
