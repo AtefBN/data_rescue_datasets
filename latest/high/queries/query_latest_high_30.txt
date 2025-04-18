@@ -1,0 +1,9 @@
+project=CMIP6
+activity_id=CFMIP CMIP
+institution_id=AS-RCEC BCC CNRM-CERFACS IPSL MIROC MOHC MRI
+source_id=BCC-CSM2-MR CNRM-CM6-1 CNRM-ESM2-1 HadGEM3-GC31-LL IPSL-CM6A-LR IPSL-CM6A-MR1 MIROC6 MRI-ESM2-0 TaiESM1
+experiment_id=amip
+variant_label=r10i1p1f1 r1i1p1f1 r1i1p1f2 r22i1p1f1 r2i1p1f1 r4i1p1f1 r5i1p1f1 r5i1p1f3 r6i1p1f1 r7i1p1f1 r8i1p1f1 r9i1p1f1
+table_id=CFsubhr
+variable_id=ccb cct ci cl cli clivi clt clw clwvi edt evspsbl evu hfls hfss hur hurs hus huss mc pfull phalf pr prc prsn prw ps psl rld rldcs rlds rldscs rlu rlucs rlus rlut rlutcs rsd rsdcs rsds rsdscs rsdt rsu rsucs rsus rsuscs rsut rsutcs rtmt sbl sci sfcWind ta tas tauu tauv tnhus tnhusa tnhusc tnhusd tnhusmp tnhusscpbl tnt tnta tntc tntmp tntr tntscpbl ts ua uas va vas wap zg
+grid_label=gn

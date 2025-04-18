@@ -1,0 +1,9 @@
+project=CMIP6
+activity_id=CMIP
+institution_id=IPSL MOHC NOAA-GFDL
+source_id=GFDL-CM4 HadGEM3-GC31-LL IPSL-CM6A-LR
+experiment_id=amip
+variant_label=r1i1p1f1 r1i1p1f3 r2i1p1f1 r5i1p1f3
+table_id=E1hrClimMon
+variable_id=rlut rlutcs rsdt rsut rsutcs
+grid_label=gn gr gr1

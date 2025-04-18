@@ -1,0 +1,9 @@
+project=CMIP6
+activity_id=CMIP
+institution_id=AWI EC-Earth-Consortium HAMMOZ-Consortium IPSL MOHC MPI-M
+source_id=AWI-CM-1-1-MR AWI-ESM-1-1-LR EC-Earth3 HadGEM3-GC31-LL IPSL-CM5A2-INCA IPSL-CM6A-LR IPSL-CM6A-LR-INCA MPI-ESM-1-2-HAM MPI-ESM1-2-HR MPI-ESM1-2-LR
+experiment_id=esm-hist historical
+variant_label=r10i1p1f1 r11i1p1f1 r12i1p1f1 r13i1p1f1 r14i1p1f1 r15i1p1f1 r16i1p1f1 r17i1p1f1 r18i1p1f1 r19i1p1f1 r1i1p1f1 r1i1p1f3 r1i2000p1f1 r20i1p1f1 r21i1p1f1 r22i1p1f1 r23i1p1f1 r24i1p1f1 r25i1p1f1 r26i1p1f1 r27i1p1f1 r28i1p1f1 r29i1p1f1 r2i1p1f1 r30i1p1f1 r31i1p1f1 r32i1p1f1 r33i1p1f1 r3i1p1f1 r4i1p1f1 r5i1p1f1 r6i1p1f1 r7i1p1f1 r8i1p1f1 r9i1p1f1
+table_id=E3hr
+variable_id=clivi clwvi prw rlut rlutcs rsut rsutcs
+grid_label=gn gr
