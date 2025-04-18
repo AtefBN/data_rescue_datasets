@@ -1,0 +1,9 @@
+project=CMIP6
+activity_id=AerChemMIP CMIP
+institution_id=CNRM-CERFACS IPSL MIROC MOHC NASA-GISS NCAR
+source_id=CESM2 CNRM-CM6-1 CNRM-CM6-1-HR CNRM-ESM2-1 GISS-E3-G HadGEM3-GC31-LL HadGEM3-GC31-MM IPSL-CM5A2-INCA IPSL-CM6A-LR IPSL-CM6A-LR-INCA IPSL-CM6A-MR1 MIROC6
+experiment_id=1pctCO2 amip esm-hist hist-piAer historical piControl
+variant_label=r10i1p1f1 r10i1p1f2 r11i1p1f1 r11i1p1f2 r12i1p1f2 r13i1p1f2 r14i1p1f2 r15i1p1f2 r1i1p101f1 r1i1p1f1 r1i1p1f2 r1i1p1f3 r1i2p1f1 r22i1p1f1 r2i1p1f1 r2i1p1f2 r33i1p1f1 r3i1p1f1 r3i1p1f2 r4i1p1f1 r5i1p1f1 r5i1p1f2 r6i1p1f1 r6i1p1f2 r7i1p1f1 r7i1p1f2 r8i1p1f1 r8i1p1f2 r9i1p1f1 r9i1p1f2
+table_id=E1hr
+variable_id=pr
+grid_label=gn gr
