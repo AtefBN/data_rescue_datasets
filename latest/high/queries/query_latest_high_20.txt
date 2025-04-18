@@ -1,0 +1,9 @@
+project=CMIP6
+activity_id=CMIP
+institution_id=CMCC CNRM-CERFACS NOAA-GFDL
+source_id=CMCC-CM2-HR4 CMCC-CM2-SR5 CMCC-ESM2 CNRM-CM6-1 CNRM-CM6-1-HR CNRM-ESM2-1 GFDL-CM4
+experiment_id=1pctCO2 abrupt-4xCO2 amip esm-hist esm-piControl historical piControl
+variant_label=r10i1p1f2 r10i1p2f1 r11i1p1f2 r11i1p2f1 r12i1p1f2 r13i1p1f2 r14i1p1f2 r15i1p1f2 r16i1p1f2 r17i1p1f2 r18i1p1f2 r19i1p1f2 r1i1p1f1 r1i1p1f2 r1i1p1f3 r20i1p1f2 r21i1p1f2 r22i1p1f2 r23i1p1f2 r24i1p1f2 r25i1p1f2 r26i1p1f2 r27i1p1f2 r28i1p1f2 r29i1p1f2 r2i1p1f2 r2i1p2f1 r30i1p1f2 r3i1p1f2 r3i1p2f1 r4i1p1f2 r4i1p2f1 r5i1p1f2 r5i1p2f1 r6i1p1f2 r6i1p2f1 r7i1p1f2 r7i1p2f1 r8i1p1f2 r8i1p2f1 r9i1p1f2 r9i1p2f1
+table_id=fx
+variable_id=areacellr
+grid_label=gn gr1

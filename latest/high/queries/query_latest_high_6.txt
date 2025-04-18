@@ -1,0 +1,9 @@
+project=CMIP6
+activity_id=AerChemMIP C4MIP CMIP
+institution_id=BCC CNRM-CERFACS EC-Earth-Consortium HAMMOZ-Consortium IPSL MIROC MOHC NOAA-GFDL
+source_id=BCC-ESM1 CNRM-CM6-1 CNRM-ESM2-1 EC-Earth3-AerChem GFDL-ESM4 HadGEM3-GC31-LL IPSL-CM5A2-INCA IPSL-CM6A-LR IPSL-CM6A-LR-INCA IPSL-CM6A-MR1 MIROC-ES2H MIROC-ES2L MPI-ESM-1-2-HAM UKESM1-0-LL
+experiment_id=1pctCO2 1pctCO2-bgc 1pctCO2-rad abrupt-4xCO2 amip esm-hist esm-piControl hist-piAer historical piControl
+variant_label=r10i1p1f1 r10i1p1f2 r11i1p1f1 r11i1p1f2 r12i1p1f2 r13i1p1f2 r14i1p1f2 r15i1p1f2 r16i1p1f2 r17i1p1f2 r18i1p1f2 r19i1p1f2 r1i1000p1f2 r1i1p1f1 r1i1p1f2 r1i1p1f3 r1i1p1f4 r1i1p4f2 r20i1p1f2 r21i1p1f2 r22i1p1f1 r22i1p1f2 r23i1p1f2 r24i1p1f2 r25i1p1f2 r26i1p1f2 r27i1p1f2 r28i1p1f2 r29i1p1f2 r2i1p1f1 r2i1p1f2 r2i1p4f2 r30i1p1f2 r33i1p1f1 r3i1p1f1 r3i1p1f2 r3i1p4f2 r4i1p1f1 r4i1p1f2 r5i1p1f1 r5i1p1f2 r6i1p1f1 r6i1p1f2 r7i1p1f1 r7i1p1f2 r8i1p1f1 r8i1p1f2 r9i1p1f1 r9i1p1f2
+table_id=AERhr
+variable_id=ps sfno2 sfo3 sfpm25 tas
+grid_label=gn gr gr1
